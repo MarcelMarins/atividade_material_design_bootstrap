@@ -1,0 +1,23 @@
+.jumbotron{
+    background-image: url(../img/Android-L-Material-Design-Wallpapers-7.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height:250px;
+    color: #fff;
+}
+
+.btn{
+    font-weight: 700;
+    font-size: calc;
+}
+
+.home{
+    font-size: auto;
+}
+
+
+
+
+
+
